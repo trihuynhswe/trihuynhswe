@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tri! <br/><a href="https://github.com/trihuynhswe">Programmer</a>
+<h1>Hi, I'm Justin! <br/><a href="https://github.com/trihuynhswe">Programmer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
